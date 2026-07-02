@@ -74,7 +74,3 @@ assets/
 ## Catatan
 
 Aplikasi ini merupakan contoh pembelajaran dan masih dalam tahap pengembangan. Fitur login belum terhubung ke backend/autentikasi asli, hanya menggunakan Shared Preferences untuk menyimpan status sesi secara lokal.
-
-## Lisensi
-
-Belum ditentukan. Tambahkan file `LICENSE` jika ingin repository ini menggunakan lisensi tertentu.
